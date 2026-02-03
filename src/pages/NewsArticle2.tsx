@@ -112,10 +112,10 @@ const NewsArticle2 = () => {
               <p>
                 Für die Einschätzung sämtlicher datenschutzrelevanter Informationen stehen wir Ihnen unkompliziert und vertrauensvoll per E-Mail unter{" "}
                 <a 
-                  href="mailto:info@merits-partner.de" 
+                  href="mailto:info@frik-maxeiner.de" 
                   className="text-[#004595] hover:underline font-medium"
                 >
-                  info@merits-partner.de
+                  info@frik-maxeiner.de
                 </a>
                 {" "}oder telefonisch zur Verfügung.
               </p>

@@ -32,8 +32,8 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Kontakt</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Telefon: (089) 277805030</p>
-              <p>Fax: (089) 277805031</p>
+              <p>Telefon: (0711) 92536420</p>
+              <p>Fax: (0711) 92536421</p>
               <p>E-Mail: info@frik-maxeiner.de</p>
             </div>
           </section>

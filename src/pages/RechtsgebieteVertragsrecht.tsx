@@ -41,7 +41,7 @@ const RechtsgebieteVertragsrecht = () => {
             </h2>
             <div className="space-y-6 text-gray-700 leading-relaxed">
               <p>
-                Als spezialisierte Vertragsrechtsexperten von MERiTS Kanzlei entwickeln wir maßgeschneiderte Lösungen für alle vertraglichen Herausforderungen:
+                Als spezialisierte Vertragsrechtsexperten von FRIK MAXEINER entwickeln wir maßgeschneiderte Lösungen für alle vertraglichen Herausforderungen:
               </p>
               <ul className="space-y-4 ml-6">
                 <li className="list-disc">
@@ -102,7 +102,7 @@ const RechtsgebieteVertragsrecht = () => {
                 Nicht nur die Vertragsgestaltung selbst profitiert von vertragsrechtlichem Fachwissen. Das gilt auch für Vertragsverhandlungen.
               </p>
               <p>
-                Um ein optimales Verhandlungsergebnis zu gewährleisten, müssen die rechtlichen Rahmenbedingungen und die eigene Situation analysiert werden. Wo liegen die eigenen Interessen, welche Ziele verfolgt der Vertragspartner? Welchen Spielraum an Zugeständnissen räumt man ein, wo zieht man die Grenze? Welche späteren Konflikte sind möglich, wie lässt sich eine Lösung vorwegnehmen? Die Anwälte von MERiTS Kanzlei begleiten Ihre Vertragsverhandlungen mit viel Erfahrung und dem Blick für die Praxis.
+                Um ein optimales Verhandlungsergebnis zu gewährleisten, müssen die rechtlichen Rahmenbedingungen und die eigene Situation analysiert werden. Wo liegen die eigenen Interessen, welche Ziele verfolgt der Vertragspartner? Welchen Spielraum an Zugeständnissen räumt man ein, wo zieht man die Grenze? Welche späteren Konflikte sind möglich, wie lässt sich eine Lösung vorwegnehmen? Die Anwälte von FRIK MAXEINER begleiten Ihre Vertragsverhandlungen mit viel Erfahrung und dem Blick für die Praxis.
               </p>
 
               <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">

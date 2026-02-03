@@ -72,7 +72,7 @@ const Datenschutz = () => {
                 <p>FRIK MAXEINER Rechtsanwälte PartG mbB</p>
                 <p>Löffelstr. 22-24</p>
                 <p>70597 Stuttgart</p>
-                <p>Telefon: (089) 277805030</p>
+                <p>Telefon: (0711) 92536420</p>
                 <p>E-Mail: info@frik-maxeiner.de</p>
               </div>
               

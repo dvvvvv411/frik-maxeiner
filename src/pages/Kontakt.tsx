@@ -130,7 +130,7 @@ const Kontakt = () => {
                     <Phone className="w-5 h-5 text-[#004595] flex-shrink-0" />
                     <div>
                       <p className="font-medium text-gray-900">Telefon</p>
-                      <p className="text-gray-600 text-sm">(089) 277805030</p>
+                      <p className="text-gray-600 text-sm">(0711) 92536420</p>
                     </div>
                   </div>
 
@@ -138,7 +138,7 @@ const Kontakt = () => {
                     <Printer className="w-5 h-5 text-[#004595] flex-shrink-0" />
                     <div>
                       <p className="font-medium text-gray-900">Fax</p>
-                      <p className="text-gray-600 text-sm">(089) 277805031</p>
+                      <p className="text-gray-600 text-sm">(0711) 92536421</p>
                     </div>
                   </div>
 
