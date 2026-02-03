@@ -28,7 +28,7 @@ const TestimonialsSection = () => {
       company: "",
       position: "",
       rating: 5,
-      text: "Das Team von MERiTS Kanzlei ist außergewöhnlich – fachlich brillant, strategisch scharf und zugleich menschlich absolut angenehm. Sie haben sich mit beeindruckender Gründlichkeit in meinen Fall eingearbeitet und dabei stets das große Ganze im Blick behalten. Ein echter Fels in der Brandung!",
+      text: "Das Team von FRIK MAXEINER ist außergewöhnlich – fachlich brillant, strategisch scharf und zugleich menschlich absolut angenehm. Sie haben sich mit beeindruckender Gründlichkeit in meinen Fall eingearbeitet und dabei stets das große Ganze im Blick behalten. Ein echter Fels in der Brandung!",
       image: "/lovable-uploads/d53c73d6-7522-47fe-9f86-4becc780b6ec.png"
     },
     {
@@ -46,7 +46,7 @@ const TestimonialsSection = () => {
       company: "",
       position: "",
       rating: 5,
-      text: "Das Team von MERiTS Kanzlei hat mich mit seiner ruhigen, analytischen Art vollkommen überzeugt. Sie nehmen sich Zeit, hören wirklich zu und liefern dann punktgenaue juristische Einschätzungen. Besonders in stressigen Situationen war ihre souveräne Haltung für mich Gold wert. Anwälte, wie man sie sich wünscht.",
+      text: "Das Team von FRIK MAXEINER hat mich mit seiner ruhigen, analytischen Art vollkommen überzeugt. Sie nehmen sich Zeit, hören wirklich zu und liefern dann punktgenaue juristische Einschätzungen. Besonders in stressigen Situationen war ihre souveräne Haltung für mich Gold wert. Anwälte, wie man sie sich wünscht.",
       image: "/lovable-uploads/c66c5011-3e4c-4916-9b5f-dcbb4706ab77.png"
     },
     {

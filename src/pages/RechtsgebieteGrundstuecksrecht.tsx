@@ -46,7 +46,7 @@ const RechtsgebieteGrundstuecksrecht = () => {
               </p>
               
               <p>
-                Unser ganzheitlicher Beratungsansatz umfasst sämtliche immobilienbezogenen Rechtsbereiche: Grundstückskauf und -verkauf, Nachbarschaftsrecht, Grundpfandrechte, Nießbrauch, Wohnrechte und Wegerechte. Dabei profitieren Sie von unserer langjährigen Erfahrung und unserem tiefen Verständnis für die Frankfurter Immobilienlandschaft.
+                Unser ganzheitlicher Beratungsansatz umfasst sämtliche immobilienbezogenen Rechtsbereiche: Grundstückskauf und -verkauf, Nachbarschaftsrecht, Grundpfandrechte, Nießbrauch, Wohnrechte und Wegerechte. Dabei profitieren Sie von unserer langjährigen Erfahrung und unserem tiefen Verständnis für die Stuttgarter Immobilienlandschaft.
               </p>
               
               <p>
