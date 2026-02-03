@@ -40,7 +40,7 @@ const Header = () => {
           <div className="flex items-center">
             <Link to="/">
               <img 
-                src="/merits-logo-white.png"
+                src="/frik-maxeiner-logo-white.png"
                 alt="FRIK MAXEINER Logo"
                 className="h-16 w-auto"
               />
